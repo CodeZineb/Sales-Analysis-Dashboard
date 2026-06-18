@@ -41,7 +41,7 @@ The dashboard provides:
 - Geographic Distribution of Sales
 - Interactive Filters
 
-![Dashboard Overview](images/dashboard.png)
+![Dashboard Overview](images/Dashboard.png)
 
 ## Key Insights
 
